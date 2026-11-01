@@ -1,0 +1,6 @@
+{
+  "name": "VeriLoom - AI Loan Identity Verification",
+  "description": "Enterprise AI-powered loan identity verification and deepfake detection platform for digital KYC and video-liveness assurance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
